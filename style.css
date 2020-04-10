@@ -1,0 +1,30 @@
+a{
+    display:inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px solid #444444;
+    font-family: sans-serif;
+}
+
+li{
+    display: inline-block;
+}
+
+.accept{
+    background-color: #1565C0;
+    color: white;
+}
+
+.decline{
+    background-color: #00796B;
+    color: white;
+}
+
+.refresh{
+    background-color: #FEC007;
+    color: wblack;
+}
+
+ul{
+    list-style: none;
+}
